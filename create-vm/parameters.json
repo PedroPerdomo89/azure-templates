@@ -5,9 +5,7 @@
         "adminUsername": {
             "value": "netviax"
         },
-        "adminPassword": {
-            "value": null
-        },
+       
         "dnsLabelPrefix": {
             "value": "examvmtest01"
         },
