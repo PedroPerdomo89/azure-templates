@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "adminUsername": {
+            "value": "netviax"
+        },
+        "adminPassword": {
+            "value": null
+        },
+        "dnsLabelPrefix": {
+            "value": "examvmtest01"
+        },
+        "windowsOSVersion": {
+            "value": "2016-Datacenter"
+        },
+        "vmSize": {
+            "value": "Standard_A2_v2"
+        },
+        "location": {
+            "value": "eastus"
+        }
+    }
+}
